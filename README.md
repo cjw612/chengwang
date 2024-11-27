@@ -9,9 +9,9 @@
 - **Strategy Intern**, Redpeak, Aug. 2021 - Dec. 2021 (_Taipei, Taiwan_)
   
 ## Research Experience
-- **Research Assistant** for Professor Hsuan-Wei Lee, Nov. 2024 - Present (_Ithaca, U.S.A._)
-- **Research Assistant** for Professor Nanyi Bi, Oct. 2023 - Jul. 2024 (_Taipei, Taiwan_)
-- **Research Assistant**, Insitute of Sociology at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
+- **Research Assistant** under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present (_Ithaca, U.S.A._)
+- **Research Assistant** under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 (_Taipei, Taiwan_)
+- **Research Assistant** under the supervision of Professor Yen-Hsin Cheng at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
 ## Project Experience
 ## Software and Tools

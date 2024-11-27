@@ -11,10 +11,10 @@
 ## Research Experience
 - **Research Assistant** under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present (_Ithaca, U.S.A._)
 - **Research Assistant** under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 (_Taipei, Taiwan_)
-- **Research Assistant** under the supervision of Professor Yen-Hsin Cheng at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
+- **Research Assistant** under the supervision of Professor Yen- Hsin Cheng at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
 ## Project Experience
 ## Software and Tools
 
-[Resume](/assets/Jonathan_Wang_Resume)
+[Resume](/assets/Jonathan_Wang_Resume.pdf)
 

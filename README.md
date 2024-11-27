@@ -15,3 +15,6 @@
 
 ## Project Experience
 ## Software and Tools
+
+[Resume](/assets/Jonathan_Wang_Resume)
+

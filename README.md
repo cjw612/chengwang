@@ -17,7 +17,7 @@
 ### Prediction of League of Legends game outcome with multiple classification methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
 
 - Performed feature transformation, outlier deletion, EDA, and prediction of League of Legends game outcome from a dataset with 28 features across 24,224 games.
-- Deployed and compared the outcome of supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, which resulted in a final prediction accuracy of over 78% on the best-performing model.
+- Deployed and compared the outcome of common supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, which resulted in a final prediction accuracy of over 78% on the best-performing model.
   
 ## Software and Tools
 

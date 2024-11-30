@@ -14,7 +14,7 @@
 - **Research Assistant** under the supervision of Professor Yen- Hsin Cheng at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
 ## Data Analysis Projects
-### Prediction of League of Legends game outcome with multiple supervised leaning methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
+### Prediction of League of Legends game outcome with supervised leaning methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
 
 - Performed feature transformation, outlier deletion, EDA, and prediction of League of Legends game outcome from a dataset with 28 features across 24,224 games.
 - Deployed and compared the outcome of common supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, which resulted in a final prediction accuracy of over 78% on the best-performing model.

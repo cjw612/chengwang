@@ -13,7 +13,12 @@
 - **Research Assistant** under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 (_Taipei, Taiwan_)
 - **Research Assistant** under the supervision of Professor Yen- Hsin Cheng at Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
-## Project Experience
+## Data Analysis Projects
+### Prediction of League of Legends game outcome with multiple classification methods [(link)](LeagueofLegendsGameOutcomeClassification)
+
+- Performed feature transformation, outlier deletion, EDA, and prediction of League of Legends game data outcome with 28 features across 24,224 games.
+- Deployed and compared the outcome of supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, which resulted in a final prediction accuracy of over 78% on the best-performing model.
+  
 ## Software and Tools
 
 [Resume](/assets/Resume.pdf)

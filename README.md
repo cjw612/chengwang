@@ -27,6 +27,6 @@
 
 - Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
-- Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate body dissatisfaction. 
+- Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
 ## Software and Tools

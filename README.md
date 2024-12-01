@@ -1,5 +1,3 @@
-# Data Scientist
-Technical Skills: Python, SQL, R, WhereScape RED, Tableu
 ## Education
 - Master's in Information Science, Cornell University, 2024 - 2025
 - Bachelor's in International Business, National Taiwan University, 2018 - 2023

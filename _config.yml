@@ -1,6 +1,7 @@
 title: Cheng Wang
-description: **Email**: cw997@cornell.edu \ **Phone**: 415-615-2220
-remote_theme: pages-themes/minimal@v0.2.0
+description: |
+  **Email**: cw997@cornell.edu
+  **Phone**: 415-615-2220remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github: false

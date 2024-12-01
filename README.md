@@ -16,17 +16,17 @@
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
 ## Data Analysis Projects
-#### Prediction of League of Legends game outcome with supervised learning methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
+#### Prediction of League of Legends Game Outcome with Supervised Learning Methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
 
 - Performed feature transformation, outlier deletion, EDA, and prediction of League of Legends game outcome from a dataset with 28 features across 24,224 games.
 - Deployed supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, yielding a final prediction accuracy of over 78% across all four models.
 - Implemented hyperparameter tuning methods such as Grid Search and Bayesian Optimization to further optimize model performance.
 
 ## Research Projects
-#### Impact of Xiaohongshu usage on young female's body dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
+#### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
-- Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from the Department of Information Management at National Taiwan University.
-- Conducted bottom-up thematic analysis with MAXQDA across 11 in-depth interviews.
-- Constructed a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate the adverse effects on body dissatisfaction. 
+- Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
+- Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
+- Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate body dissatisfaction. 
 
 ## Software and Tools

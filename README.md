@@ -23,10 +23,10 @@
 - Implemented hyperparameter tuning methods such as Grid Search and Bayesian Optimization to further optimize model performance.
 
 ## Research Projects
-#### Impact of Xiaohongshu usage on young female's body dissatisfaction  [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
+#### Impact of Xiaohongshu usage on young female's body dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
-- Performed feature transformation, outlier deletion, EDA, and prediction of League of Legends game outcome from a dataset with 28 features across 24,224 games.
-- Deployed supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, yielding a final prediction accuracy of over 78% across all four models.
-- Implemented hyperparameter tuning methods such as Grid Search and Bayesian Optimization to further optimize model performance.
+- Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
+- Conducted bottom-up thematic analysis with MAXQDA across 11 in-depth interviews.
+- Constructed a thorough conceptual model between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate the adverse effects on body dissatisfaction. 
 
 ## Software and Tools

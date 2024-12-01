@@ -25,8 +25,8 @@
 ## Research Projects
 #### Impact of Xiaohongshu usage on young female's body dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
-- Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
+- Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from the Department of Information Management at National Taiwan University.
 - Conducted bottom-up thematic analysis with MAXQDA across 11 in-depth interviews.
-- Constructed a thorough conceptual model between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate the adverse effects on body dissatisfaction. 
+- Constructed a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison, in addition to identifying usage patterns and platform characteristics that may exacerbate the adverse effects on body dissatisfaction. 
 
 ## Software and Tools

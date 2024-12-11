@@ -22,7 +22,7 @@
 - Deployed supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, yielding a final prediction accuracy of over 78% across all four models.
 - Implemented hyperparameter tuning methods such as Grid Search and Bayesian Optimization to further optimize model performance.
 
-### News Category Classification with NLP and Deep Learning Methods [(link)](https://github.com/cjw612/News_Category_Classification)
+### News Category Classification with NLP and Deep Learning [(link)](https://github.com/cjw612/News_Category_Classification)
 
 - Predicted the category of news entries based on the headline and description from a dataset with over 200,000 entries, deploying both classical and deep learning machine learning models.
 - Utilized methods such as Latent Dirichlet Allocation and Principle Component Analysis to perform dimension reduction and feature transformation.

@@ -24,9 +24,9 @@
 
 #### News Category Classification with NLP and Deep Learning Methods [(link)](https://github.com/cjw612/News_Category_Classification)
 
-- Predicted the category of news entries based on the headline and description from a dataset with over 200,000 entries.
-- Utilized methods such as Latent Dirichlet Allocation and Principle Component Analysis to perform dimension reduction and feature transformation. 
-- Deployed both classical and deep learning machine learning models with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model. 
+- Predicted the category of news entries based on the headline and description from a dataset with over 200,000 entries, deploying both classical and deep learning machine learning models.
+- Utilized methods such as Latent Dirichlet Allocation and Principle Component Analysis to perform dimension reduction and feature transformation.
+- Deployed Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model. 
 
 #### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 

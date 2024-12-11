@@ -16,19 +16,19 @@
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
 
 ## Project Experience
-#### Prediction of League of Legends Game Outcome with Supervised Learning Methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
+### Prediction of League of Legends Game Outcome with Supervised Learning Methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)
 
 - Predicted the outcome of League of Legends games based on in-game data from a dataset with 28 features across 24,224 entries.
 - Deployed supervised learning methods such as Logistic Regression, Linear Discriminant Analysis, Random Forest, and XGBoost, yielding a final prediction accuracy of over 78% across all four models.
 - Implemented hyperparameter tuning methods such as Grid Search and Bayesian Optimization to further optimize model performance.
 
-#### News Category Classification with NLP and Deep Learning Methods [(link)](https://github.com/cjw612/News_Category_Classification)
+### News Category Classification with NLP and Deep Learning Methods [(link)](https://github.com/cjw612/News_Category_Classification)
 
 - Predicted the category of news entries based on the headline and description from a dataset with over 200,000 entries, deploying both classical and deep learning machine learning models.
 - Utilized methods such as Latent Dirichlet Allocation and Principle Component Analysis to perform dimension reduction and feature transformation.
 - Deployed Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model. 
 
-#### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
+### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
 - Identified how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.

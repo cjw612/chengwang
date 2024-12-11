@@ -1,10 +1,10 @@
 [Resume](/assets/Resume.pdf)
 
 ## Education
-- Master's in Information Science, Cornell University, 2024 - 2025
-- Bachelor's in International Business, National Taiwan University, 2018 - 2023
-- Bachelor's in Sociology (minor), National Taiwan University, 2018 - 2023
-- Business Analytics Program, National Taiwan University, 2018 - 2023
+- ###### Master's in Information Science, Cornell University, 2024 - 2025
+- ###### Bachelor's in International Business, National Taiwan University, 2018 - 2023
+- ###### Bachelor's in Sociology (minor), National Taiwan University, 2018 - 2023
+- ###### Business Analytics Program, National Taiwan University, 2018 - 2023
   
 ## Work Experience
 - Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (_Taipei, Taiwan_)
@@ -35,3 +35,5 @@
 - Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
 ## Software and Tools
+
+- 

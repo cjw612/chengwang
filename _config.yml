@@ -1,7 +1,7 @@
 title: Cheng (Jonathan) Wang
 author:
   name: Cheng Wang
-  email: cw997@cornell.edu
+  email: "cw997@cornell.edu"
 logo: /assets/profile_circle.png
 description: >
   Project portfolio of Cheng (Jonathan Wang).
@@ -11,5 +11,5 @@ plugins:
 
 theme: minima
 social_links:
-  #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/cheng-wang-1a5465219/" }
+   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/cheng-wang-1a5465219/" }

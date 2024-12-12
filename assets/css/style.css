@@ -424,11 +424,15 @@ kbd {
 }
 
 header {
-    width: 200px;
-    height: auto;
+    width: 270px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased
+}
+
+header img {
+  width: 220px; /* Set a fixed width for the logo */
+  height: auto; /* Maintain the aspect ratio of the logo */
 }
 
 ul.downloads {

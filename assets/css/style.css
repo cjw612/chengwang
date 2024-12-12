@@ -622,7 +622,6 @@ hr {
 }
 
 .table-of-contents {
-  background-color: #f4f4f4;
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 5px;
@@ -636,7 +635,7 @@ hr {
 }
 
 .table-of-contents ul li {
-  margin-right: 20px; /* Space between the items */
+  margin-right: 10px; /* Space between the items */
 }
 
 .table-of-contents ul li a {

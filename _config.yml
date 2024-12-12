@@ -1,4 +1,9 @@
 title: Cheng Wang
 logo: /assets/profile_circle.png
+description:
+  - phone: +1-415-615-2220
+  - email: cw997@cornell.edu
+  - resume: https://example.com/resume.pdf
+  - linkedin: https://www.linkedin.com/in/cjw612/
 github: false
 theme: jekyll-theme-minimal

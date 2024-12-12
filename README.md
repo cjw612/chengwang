@@ -1,5 +1,3 @@
-[Resume](/assets/Resume.pdf)
-
 ## Education
 - Master's in Information Science, Cornell University, 2024 - 2025
 - Bachelor's in International Business, National Taiwan University, 2018 - 2023

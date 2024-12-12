@@ -626,11 +626,7 @@ hr {
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 5px;
-}
-
-.table-of-contents h3 {
-  font-size: 18px;
-  margin-bottom: 10px;
+  color: #d3d3d3; /* Light grey color for text */
 }
 
 .table-of-contents ul {
@@ -644,10 +640,10 @@ hr {
 
 .table-of-contents ul li a {
   text-decoration: none;
-  color: #267CB9;
+  color: #d3d3d3; /* Light grey color for links */
 }
 
 .table-of-contents ul li a:hover {
   font-weight: bold;
-  color: #069;
+  color: #a9a9a9; /* Slightly darker grey on hover */
 }

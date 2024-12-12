@@ -25,3 +25,9 @@
   background-color: #e0e0e0; /* Darken the background slightly on hover */
   color: #333333; /* Darker grey on hover */
 }
+
+hr {
+  margin: 20px 0; /* Add spacing above and below the line */
+  border: 0; /* Remove the default border */
+  border-top: 1px solid #ccc; /* Add a custom border */
+}

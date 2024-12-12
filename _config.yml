@@ -2,6 +2,7 @@ title: Cheng (Jonathan) Wang
 logo: /assets/profile_circle.png
 description: |
   email: cw997@cornell.edu
+
   mobile: +1-415-615-2220
 plugins:
   - jekyll-feed
@@ -11,3 +12,10 @@ theme: jekyll-theme-minimal
 social_links:
    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/cheng-wang-1a5465219/" }
+ sidebar:
+- title: "About"
+  url: "/about/"
+- title: "Projects"
+  url: "/projects/"
+- title: "Blog"
+  url: "/blog/"

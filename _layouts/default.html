@@ -22,25 +22,26 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-          <!-- Optional description text -->
+          <!-- Description text -->
         <p>{{ site.description_text | default: "" }}</p>
-      
+        
+          <!-- Line -->
         <hr style="margin: 20px 0; border: 0.5px solid #ccc;">
 
-  
-        <!-- New Table of Contents (Quick Links) Section -->
-        <div class="table-of-contents">
+          <div class="table-of-contents">
           <ul>
-            <a href="#Education">Education</a>
-            <a href="#Work Experience">Work Experience</a>
-            <a href="#Research Experience">Research Experience</a>
-            <a href="#Project Experience">Project Experience</a>
-            <a href="#Software and Skills">Software and Skills</a>
+            <li><a href="#Education">Education</a></li>
+            <li><a href="#Work Experience">Work Experience</a></li>
+            <li><a href="#Research Experience">Research Experience</a></li>
+            <li><a href="#Project Experience">Project Experience</a></li>
+            <li><a href="#Software and Skills">Software and Skills</a></li>
           </ul>
         </div>
-
+        
+          <!-- Line -->
         <hr style="margin: 20px 0; border: 0.5px solid #ccc;">
         
+          <!-- Icons -->
         <div class="icon-row">
           {% for item in site.description %}
             {% if item.phone %}

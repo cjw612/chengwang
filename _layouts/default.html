@@ -28,28 +28,17 @@
         {% assign current_section = "" %}
         <ul>
           {% for item in site.description %}
-            {% if item.section %}
-              <li><strong style="color: #555555;">{{ item.section }}</strong></li>
-              {% assign current_section = item.section %}
-            {% elsif current_section %}
-              <!-- Display Phone Icon -->
-              {% if item.phone %}
-                <li><i class="fas fa-phone-alt"></i> <a href="tel:{{ item.phone }}" target="_blank">{{ item.phone }}</a></li>
-              {% endif %}
-              <!-- Display Email Icon -->
-              {% if item.email %}
-                <li><i class="fas fa-envelope"></i> <a href="mailto:{{ item.email }}" target="_blank">{{ item.email }}</a></li>
-              {% endif %}
-              <!-- Display Resume Icon -->
-              {% if item.resume %}
-                <li><i class="fas fa-file-alt"></i> <a href="{{ item.resume }}" target="_blank">Resume</a></li>
-              {% endif %}
-              <!-- Display LinkedIn Icon -->
-              {% if item.linkedin %}
-                <li><i class="fab fa-linkedin"></i> <a href="{{ item.linkedin }}" target="_blank">LinkedIn</a></li>
-              {% endif %}
-            {% else %}
-              <li><strong style="color: #555555;">{{ item[0] }}:</strong> {{ item[1] }}</li>
+            {% if item.phone %}
+              <li><i class="fas fa-phone-alt" style="color: #888;"></i> <a href="tel:{{ item.phone }}" target="_blank" style="color: #555;">{{ item.phone }}</a></li>
+            {% endif %}
+            {% if item.email %}
+              <li><i class="fas fa-envelope" style="color: #888;"></i> <a href="mailto:{{ item.email }}" target="_blank" style="color: #555;">{{ item.email }}</a></li>
+            {% endif %}
+            {% if item.resume %}
+              <li><i class="fas fa-file-alt" style="color: #888;"></i> <a href="{{ item.resume }}" target="_blank" style="color: #555;">Resume</a></li>
+            {% endif %}
+            {% if item.linkedin %}
+              <li><i class="fab fa-linkedin" style="color: #888;"></i> <a href="{{ item.linkedin }}" target="_blank" style="color: #555;">LinkedIn</a></li>
             {% endif %}
           {% endfor %}
         </ul>

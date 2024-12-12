@@ -25,3 +25,9 @@
   background-color: #e0e0e0 !important; /* Darker background */
   color: #333333 !important; /* Darker grey icon */
 }
+
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #ccc;
+}

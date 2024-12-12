@@ -591,10 +591,10 @@ footer {
 
 /* custom content*/
 .icon-row {
-  display: flex !important; /* Force horizontal layout */
-  justify-content: center !important; /* Center icons */
-  gap: 10px !important; /* Add spacing between icons */
-  margin: 20px 0 !important; /* Add space above and below */
+  display: flex ; /* Force horizontal layout */
+  justify-content: left ; /* Center icons */
+  gap: 10px ; /* Add spacing between icons */
+  margin: 20px 0 ; /* Add space above and below */
 }
 
 .icon-link {

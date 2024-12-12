@@ -2,7 +2,7 @@
 .icon-row {
   display: flex; /* Arrange items in a row */
   justify-content: center; /* Center icons horizontally */
-  gap: 20px; /* Add space between icons */
+  gap: 30px; /* Add more space between icons */
   margin: 20px 0; /* Add spacing above and below the row */
 }
 
@@ -10,16 +10,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50px; /* Set a fixed width for the icon circle */
-  height: 50px; /* Set a fixed height for the icon circle */
+  width: 70px; /* Increase the size of the circular background */
+  height: 70px; /* Increase the size of the circular background */
   border-radius: 50%; /* Make the icon background circular */
-  background-color: #000; /* Background color for the icon */
-  color: #fff; /* Icon color */
+  background-color: #f0f0f0; /* Light grey background for the icon circle */
+  color: #555555; /* Grey color for the icon */
   text-decoration: none; /* Remove underline from links */
-  font-size: 24px; /* Adjust icon size */
-  transition: transform 0.2s ease; /* Smooth scaling effect on hover */
+  font-size: 28px; /* Larger icon size */
+  transition: transform 0.2s ease, background-color 0.2s ease; /* Smooth hover effect */
 }
 
 .icon-link:hover {
-  transform: scale(1.2); /* Slightly enlarge icon on hover */
+  transform: scale(1.2); /* Slightly enlarge the icon on hover */
+  background-color: #e0e0e0; /* Darken the background slightly on hover */
+  color: #333333; /* Darker grey on hover */
 }

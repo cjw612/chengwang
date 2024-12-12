@@ -628,14 +628,14 @@ hr {
 }
 
 .table-of-contents ul {
-  list-style: none; 
+  list-style: none;  /* Remove bullet points */
   padding: 0;
   margin: 0;
-  display: flex; /* Align items horizontally */
+  /* Remove display: flex to align items vertically */
 }
 
 .table-of-contents ul li {
-  margin-right: 10px; /* Space between the items */
+  margin-bottom: 10px; /* Space between the items vertically */
 }
 
 .table-of-contents ul li a {
@@ -647,4 +647,3 @@ hr {
   font-weight: bold;
   color: #a9a9a9; /* Darker grey on hover */
 }
-

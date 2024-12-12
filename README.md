@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Resume](/assets/Resume.pdf)
 
 ## Education

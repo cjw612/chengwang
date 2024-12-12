@@ -1,14 +1,4 @@
 title: Cheng Wang
 logo: /assets/profile_circle.png
-description: >
-  - email: cw997@cornell.edu
-  - mobile: +1-415-615-2220
 github: false
 theme: jekyll-theme-minimal
-sidebar:
-- title: "About"
-  url: "/about/"
-- title: "Projects"
-  url: "/projects/"
-- title: "Blog"
-  url: "/blog/"

@@ -1,10 +1,8 @@
 title: Cheng (Jonathan) Wang
-author:
-  name: Cheng Wang
-  email: "cw997@cornell.edu"
 logo: /assets/profile_circle.png
 description: >
-  Project portfolio of Cheng (Jonathan Wang).
+  email: cw997@cornell.edu
+  mobile: +1-415-615-2220
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

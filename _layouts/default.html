@@ -24,24 +24,30 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
             
-        <!-- Render the description with icons -->
-        {% assign current_section = "" %}
-        <ul>
+        <div class="icon-row">
           {% for item in site.description %}
             {% if item.phone %}
-              <li><i class="fas fa-phone-alt" style="color: #888;"></i> <a href="tel:{{ item.phone }}" target="_blank" style="color: #555;">{{ item.phone }}</a></li>
+              <a href="tel:{{ item.phone }}" target="_blank" class="icon-link">
+                <i class="fas fa-phone-alt"></i>
+              </a>
             {% endif %}
             {% if item.email %}
-              <li><i class="fas fa-envelope" style="color: #888;"></i> <a href="mailto:{{ item.email }}" target="_blank" style="color: #555;">{{ item.email }}</a></li>
+              <a href="mailto:{{ item.email }}" target="_blank" class="icon-link">
+                <i class="fas fa-envelope"></i>
+              </a>
             {% endif %}
             {% if item.resume %}
-              <li><i class="fas fa-file-alt" style="color: #888;"></i> <a href="{{ item.resume }}" target="_blank" style="color: #555;">Resume</a></li>
+              <a href="{{ item.resume }}" target="_blank" class="icon-link">
+                <i class="fas fa-file-alt"></i>
+              </a>
             {% endif %}
             {% if item.linkedin %}
-              <li><i class="fab fa-linkedin" style="color: #888;"></i> <a href="{{ item.linkedin }}" target="_blank" style="color: #555;">LinkedIn</a></li>
+              <a href="{{ item.linkedin }}" target="_blank" class="icon-link">
+                <i class="fab fa-linkedin"></i>
+              </a>
             {% endif %}
           {% endfor %}
-        </ul>
+        </div>
         
       </header>
       <section>

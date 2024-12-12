@@ -21,6 +21,11 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+
+          <!-- Optional description text -->
+        <p>{{ site.description_text | default: "" }}</p>
+      
+        <hr style="margin: 20px 0; border: 1px solid #ccc;">
             
         <div class="icon-row">
           {% for item in site.description %}

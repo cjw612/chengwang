@@ -25,8 +25,23 @@
           <!-- Optional description text -->
         <p>{{ site.description_text | default: "" }}</p>
       
-        <hr style="margin: 20px 0; border: 1px solid #ccc;">
-            
+        <hr style="margin: 20px 0; border: 0.5px solid #ccc;">
+
+  
+        <!-- New Table of Contents (Quick Links) Section -->
+        <div class="table-of-contents">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="#about">Education</a></li>
+            <li><a href="#projects">Work Experience</a></li>
+            <li><a href="#contact">Research Experience</a></li>
+            <li><a href="#resume">Project Experience</a></li>
+            <li><a href="#skills">Software and Skills</a></li>
+          </ul>
+        </div>
+
+        <hr style="margin: 20px 0; border: 0.5px solid #ccc;">
+        
         <div class="icon-row">
           {% for item in site.description %}
             {% if item.phone %}

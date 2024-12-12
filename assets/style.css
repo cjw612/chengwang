@@ -593,7 +593,7 @@ footer {
 .icon-row {
   display: flex !important; /* Force horizontal layout */
   justify-content: center !important; /* Center icons */
-  gap: 30px !important; /* Add spacing between icons */
+  gap: 10px !important; /* Add spacing between icons */
   margin: 20px 0 !important; /* Add space above and below */
 }
 
@@ -601,10 +601,8 @@ footer {
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
-  width: 70px !important; /* Ensure larger size */
-  height: 70px !important; /* Ensure larger size */
-  border-radius: 50% !important; /* Circular background */
-  background-color: #f0f0f0 !important; /* Grey background */
+  width: 40px !important; /* Ensure larger size */
+  height: 40px !important; /* Ensure larger size */
   color: #555555 !important; /* Grey icon color */
   text-decoration: none !important;
   font-size: 28px !important; /* Force larger icon */

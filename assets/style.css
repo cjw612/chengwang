@@ -1,0 +1,25 @@
+/* Icon Row Styling */
+.icon-row {
+  display: flex; /* Arrange items in a row */
+  justify-content: center; /* Center icons horizontally */
+  gap: 20px; /* Add space between icons */
+  margin: 20px 0; /* Add spacing above and below the row */
+}
+
+.icon-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px; /* Set a fixed width for the icon circle */
+  height: 50px; /* Set a fixed height for the icon circle */
+  border-radius: 50%; /* Make the icon background circular */
+  background-color: #000; /* Background color for the icon */
+  color: #fff; /* Icon color */
+  text-decoration: none; /* Remove underline from links */
+  font-size: 24px; /* Adjust icon size */
+  transition: transform 0.2s ease; /* Smooth scaling effect on hover */
+}
+
+.icon-link:hover {
+  transform: scale(1.2); /* Slightly enlarge icon on hover */
+}

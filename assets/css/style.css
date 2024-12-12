@@ -626,16 +626,17 @@ hr {
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 5px;
-  color: #d3d3d3; /* Light grey color for text */
 }
 
 .table-of-contents ul {
-  list-style: none;
+  list-style: none; /* Remove bullets */
   padding: 0;
+  margin: 0;
+  display: flex; /* Align items horizontally */
 }
 
 .table-of-contents ul li {
-  margin-bottom: 10px;
+  margin-right: 20px; /* Space between the items */
 }
 
 .table-of-contents ul li a {
@@ -645,5 +646,6 @@ hr {
 
 .table-of-contents ul li a:hover {
   font-weight: bold;
-  color: #a9a9a9; /* Slightly darker grey on hover */
+  color: #a9a9a9; /* Darker grey on hover */
 }
+

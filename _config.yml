@@ -1,7 +1,7 @@
 title: Cheng (Jonathan) Wang
 logo: /assets/profile_circle.png
-description: >
-  email: cw997@cornell.edu \
+description: |
+  email: cw997@cornell.edu
   mobile: +1-415-615-2220
 plugins:
   - jekyll-feed

@@ -1,33 +1,27 @@
-/* Icon Row Styling */
+/* Ensure these styles override others */
 .icon-row {
-  display: flex; /* Arrange items in a row */
-  justify-content: center; /* Center icons horizontally */
-  gap: 30px; /* Add more space between icons */
-  margin: 20px 0; /* Add spacing above and below the row */
+  display: flex !important; /* Force horizontal layout */
+  justify-content: center !important; /* Center icons */
+  gap: 30px !important; /* Add spacing between icons */
+  margin: 20px 0 !important; /* Add space above and below */
 }
 
 .icon-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100px; /* Increase the size of the circular background */
-  height: 100px; /* Increase the size of the circular background */
-  border-radius: 50%; /* Make the icon background circular */
-  background-color: #f0f0f0; /* Light grey background for the icon circle */
-  color: #555555; /* Grey color for the icon */
-  text-decoration: none; /* Remove underline from links */
-  font-size: 28px; /* Larger icon size */
-  transition: transform 0.2s ease, background-color 0.2s ease; /* Smooth hover effect */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 70px !important; /* Ensure larger size */
+  height: 70px !important; /* Ensure larger size */
+  border-radius: 50% !important; /* Circular background */
+  background-color: #f0f0f0 !important; /* Grey background */
+  color: #555555 !important; /* Grey icon color */
+  text-decoration: none !important;
+  font-size: 28px !important; /* Force larger icon */
+  transition: transform 0.2s ease, background-color 0.2s ease !important; /* Smooth hover effect */
 }
 
 .icon-link:hover {
-  transform: scale(1.2); /* Slightly enlarge the icon on hover */
-  background-color: #e0e0e0; /* Darken the background slightly on hover */
-  color: #333333; /* Darker grey on hover */
-}
-
-hr {
-  margin: 20px 0; /* Add spacing above and below the line */
-  border: 0; /* Remove the default border */
-  border-top: 1px solid #ccc; /* Add a custom border */
+  transform: scale(1.2) !important; /* Enlarge icon on hover */
+  background-color: #e0e0e0 !important; /* Darker background */
+  color: #333333 !important; /* Darker grey icon */
 }

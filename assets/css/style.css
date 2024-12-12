@@ -635,15 +635,15 @@ hr {
 }
 
 .table-of-contents ul li {
-  margin-bottom: 10px; /* Space between the items vertically */
+  margin-bottom: 5px; /* Space between the items vertically */
 }
 
 .table-of-contents ul li a {
   text-decoration: none;
-  color: #d3d3d3; /* Light grey color for links */
+  color: #a9a9a9; /* Light grey color for links */
 }
 
 .table-of-contents ul li a:hover {
   font-weight: bold;
-  color: #a9a9a9; /* Darker grey on hover */
+  color: #808080; /* Darker grey on hover */
 }

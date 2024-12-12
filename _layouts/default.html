@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -23,9 +24,34 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
             
+        <!-- Render the description with icons -->
+        {% assign current_section = "" %}
         <ul>
-          <li><strong style="color: #555555;">email:</strong> cw997@cornell.edu</li>
-          <li><strong style="color: #555555;">mobile:</strong> +1-415-615-2220</li>
+          {% for item in site.description %}
+            {% if item.section %}
+              <li><strong style="color: #555555;">{{ item.section }}</strong></li>
+              {% assign current_section = item.section %}
+            {% elsif current_section %}
+              <!-- Display Phone Icon -->
+              {% if item.phone %}
+                <li><i class="fas fa-phone-alt"></i> <a href="tel:{{ item.phone }}" target="_blank">{{ item.phone }}</a></li>
+              {% endif %}
+              <!-- Display Email Icon -->
+              {% if item.email %}
+                <li><i class="fas fa-envelope"></i> <a href="mailto:{{ item.email }}" target="_blank">{{ item.email }}</a></li>
+              {% endif %}
+              <!-- Display Resume Icon -->
+              {% if item.resume %}
+                <li><i class="fas fa-file-alt"></i> <a href="{{ item.resume }}" target="_blank">Resume</a></li>
+              {% endif %}
+              <!-- Display LinkedIn Icon -->
+              {% if item.linkedin %}
+                <li><i class="fab fa-linkedin"></i> <a href="{{ item.linkedin }}" target="_blank">LinkedIn</a></li>
+              {% endif %}
+            {% else %}
+              <li><strong style="color: #555555;">{{ item[0] }}:</strong> {{ item[1] }}</li>
+            {% endif %}
+          {% endfor %}
         </ul>
         
       </header>

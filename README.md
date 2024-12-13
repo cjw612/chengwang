@@ -41,8 +41,8 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - #### Programming Languages
   - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
 - #### Statistical Methods
-  - **Supervised Learning**: Regression, Discriminant Analysis, Support Vector Machine, K Nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost, Sentiment analysis
-  - **Unsupervised Learning**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
+  - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K Nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost, Sentiment analysis
+  - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
   - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
 - #### Software
   - **Business Intelligence**: WhereScape RED

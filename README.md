@@ -1,6 +1,6 @@
 ## About Me
-I am a Master's student at **Cornell University** majoring in Information Science. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology, in addition to finishing the business analytics program. \
-My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to apply qualitative and quantitative research methods to various real-world contexts and scenarios. 
+I am currently a Master's student at **Cornell University** majoring in Information Science. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology, in addition to finishing the business analytics program. \
+My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in applying qualitative and quantitative research methods to various real-world contexts and scenarios. 
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025
@@ -9,8 +9,8 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (_Taipei, Taiwan_)
-- Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (_Taipei, Taiwan_)
+- Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
+- Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
 ## Research Experience
 - Research Assistant under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present 
@@ -45,7 +45,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
   - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
 - #### Software
-  - **Business Intelligence**: WhereScape RED
-  - **Visualization**: Matplotlib, Seaborn, MS Excel, Tableau
+  - **Business Intelligence**: WhereScape RED, Tableau
+  - **Packages**: scikit-learn, TensorFlow, pandas, numpy, Matplotlib, Seaborn, 
   - **Qualitative Research**: MAXQDA
   - **Statistical Software**: STATA, SPSS

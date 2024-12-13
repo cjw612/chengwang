@@ -520,9 +520,8 @@ footer {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
-br {
-  display: block;
-  margin-bottom: 10px; /* Add spacing after each <br> */
+section {
+  line-height: 1.8; /* Adjust this value for more or less spacing */
 }
 
 @media print, screen and (max-width: 960px) {

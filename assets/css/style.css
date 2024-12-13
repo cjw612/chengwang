@@ -328,9 +328,8 @@ p,ol,ul,table,pre,dl {
     margin: 0 0 20px
 }
 
-#software-and-tools ul li ul {
-    margin: 0 0 10px !important;
-    padding-left: 20px !important;
+#software-and-tools > ul > li > ul {
+    margin: 0 0 10px; /* Adjust spacing for the nested list */
 }
 
 h1,h2,h3 {

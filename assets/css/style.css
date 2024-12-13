@@ -372,6 +372,10 @@ blockquote {
     font-style: italic
 }
 
+section br {
+  line-height: 2; /* Adjust this value for more spacing */
+}
+
 code,pre {
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
     color: #333

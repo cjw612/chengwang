@@ -46,6 +46,6 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
 - #### Software
   - **Business Intelligence**: WhereScape RED, Tableau
-  - **Packages**: scikit-learn, TensorFlow, pandas, numpy, Matplotlib, Seaborn, 
-  - **Qualitative Research**: MAXQDA
+  - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, NLTK
+  - **Qualitative Research**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS

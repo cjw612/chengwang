@@ -9,9 +9,9 @@
 - Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (_Taipei, Taiwan_)
   
 ## Research Experience
-- Research Assistant under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present (_Ithaca, U.S.A._)
-- Research Assistant under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 (_Taipei, Taiwan_)
-- Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 (_Taipei, Taiwan_)
+- Research Assistant under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present 
+- Research Assistant under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 
+- Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 
 
 ## Project Experience
 ### Prediction of League of Legends Game Outcome with Supervised Learning Methods [(link)](https://github.com/cjw612/LeagueofLegendsGameOutcomeClassification)

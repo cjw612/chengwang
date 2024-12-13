@@ -328,8 +328,8 @@ p,ol,ul, table,pre,dl {
     margin: 0 0 20px
 }
 
-#software-and-tools ul ul {
-  margin: 0 0 10px !important; /* Custom margin specific to this section */
+#software-and-tools > ul {
+    margin: 0 0 10px !important;
 }
 
 h1,h2,h3 {

@@ -598,7 +598,7 @@ footer {
 .icon-row {
   display: flex ; /* Force horizontal layout */
   justify-content: left ; /* Center icons */
-  gap: 10px ; /* Add spacing between icons */
+  gap: 5px ; /* Add spacing between icons */
   margin: 20px 0 ; /* Add space above and below */
 }
 
@@ -606,8 +606,8 @@ footer {
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
-  width: 40px !important; /* Ensure larger size */
-  height: 40px !important; /* Ensure larger size */
+  width: 30px !important; /* Ensure larger size */
+  height: 30px !important; /* Ensure larger size */
   color: #555555 !important; /* Grey icon color */
   text-decoration: none !important;
   font-size: 28px !important; /* Force larger icon */

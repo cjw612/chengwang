@@ -520,10 +520,6 @@ footer {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
-section {
-  line-height: 1.8; /* Adjust this value for more or less spacing */
-}
-
 @media print, screen and (max-width: 960px) {
     div.wrapper {
         width:auto;

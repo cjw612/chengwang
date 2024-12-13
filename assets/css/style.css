@@ -329,7 +329,7 @@ p,ol,ul,table,pre,dl {
 }
 
 #software-and-tools > ul > li > ul {
-    margin: 0 0 10px; /* Adjust spacing for the nested list */
+    margin: 0 0 10px !important;
 }
 
 h1,h2,h3 {

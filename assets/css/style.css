@@ -322,15 +322,10 @@ h1,h2,h3,h5,h6 {
 h4 {
   color: #808080;
   margin: 0 0 5px
-  padding: 5 0 0px
 }
 
 p,ol,ul,table,pre,dl {
     margin: 0 0 20px
-}
-
-ul {
-    margin: 0 0 0px
 }
 
 h1,h2,h3 {

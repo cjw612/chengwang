@@ -36,10 +36,15 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
-## Software and Tools
+## Software and Skills
 
 - #### Programming Languages
-  - Python (excellent), R (excellent), C++ (intermediate)
+  - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++* (intermediate), **VBA** (intermediate)
 - #### Statistical Methods
-  - Hypothesis testing, Regression, Discriminant analysis, 
-- **Software**: 
+  - **Supervised Learning**: Regression, Discriminant analysis, SVM, KNN, MLP, Random forest, XGBoost, Sentiment analysis
+  - **Unsupervised Learning**: PCA, K-means clustering, Latent Dirichlet Allocation
+  - **Data Preprocessing**: Feature scaling, Encoding, Missing data handling, Outlier removal
+- #### Software
+  - **Business Intelligence**: WhereScape RED, Tableau
+  - **Visualization**: Matplotlib, Seaborn, MS Excel
+  - **Qualitative Research**: MAXQDA

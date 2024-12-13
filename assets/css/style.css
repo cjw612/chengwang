@@ -324,12 +324,12 @@ h4 {
   margin: 0 0 5px
 }
 
-p,ol,table,pre,dl {
+p,ol,ul, table,pre,dl {
     margin: 0 0 20px
 }
 
-ul {
-    margin: 0 0 5px
+#software-and-tools ul {
+  margin:  0 10px; /* Custom margin specific to this section */
 }
 
 h1,h2,h3 {

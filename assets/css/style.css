@@ -329,7 +329,7 @@ p,ol,ul, table,pre,dl {
 }
 
 #software-and-tools ul ul {
-  margin: 0 0 10px; /* Custom margin specific to this section */
+  margin: 0 0 10px !important; /* Custom margin specific to this section */
 }
 
 h1,h2,h3 {

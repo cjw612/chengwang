@@ -1,5 +1,5 @@
 ## About Me
-I am a Master's student at **Cornell University** majoring in Information Science. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in **Sociology**, in addition to finishing the business analytics program. \
+I am a Master's student at **Cornell University** majoring in Information Science. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology, in addition to finishing the business analytics program. \
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to apply qualitative and quantitative research methods to various real-world contexts and scenarios. 
 
 ## Education
@@ -41,9 +41,9 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - #### Programming Languages
   - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
 - #### Statistical Methods
-  - **Supervised Learning**: Regression, Discriminant analysis, SVM, KNN, MLP, Random forest, XGBoost, Sentiment analysis
-  - **Unsupervised Learning**: PCA, K-means clustering, Latent Dirichlet Allocation
-  - **Data Preprocessing**: Feature scaling, Encoding, Missing data handling, Outlier removal
+  - **Supervised Learning**: Regression, Discriminant Analysis, Support Vector Machine, K Nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost, Sentiment analysis
+  - **Unsupervised Learning**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
+  - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
 - #### Software
   - **Business Intelligence**: WhereScape RED
   - **Visualization**: Matplotlib, Seaborn, MS Excel, Tableau

@@ -328,7 +328,7 @@ p,ol,ul, table,pre,dl {
     margin: 0 0 20px
 }
 
-#software-and-tools > ul {
+#software-and-tools h4 + ul {
     margin: 0 0 10px !important;
 }
 

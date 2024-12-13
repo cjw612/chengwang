@@ -4,7 +4,7 @@ desctiption_text: Project portfolio of Cheng Wang, a current Master's student at
 description:
   - phone: +1-415-615-2220
   - email: cw997@cornell.edu
-  - resume: https://example.com/resume.pdf
-  - linkedin: https://www.linkedin.com/in/cjw612/
+  - resume: /assets/Resume.pdf
+  - linkedin: https://www.linkedin.com/in/cheng-wang-1a5465219/
 github: false
 theme: jekyll-theme-minimal

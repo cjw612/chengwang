@@ -39,7 +39,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 ## Software and Skills
 
 - #### Programming Languages
-  - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++* (intermediate), **VBA** (intermediate)
+  - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
 - #### Statistical Methods
   - **Supervised Learning**: Regression, Discriminant analysis, SVM, KNN, MLP, Random forest, XGBoost, Sentiment analysis
   - **Unsupervised Learning**: PCA, K-means clustering, Latent Dirichlet Allocation

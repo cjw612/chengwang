@@ -38,8 +38,8 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 
 ## Software and Tools
 
-- ##### Programming Languages**
+- #### Programming Languages
   - Python (excellent), R (excellent), C++ (intermediate)
-- ##### Statistical Methods**
+- #### Statistical Methods
   - Hypothesis testing, Regression, Discriminant analysis, 
 - **Software**: 

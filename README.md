@@ -45,6 +45,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Unsupervised Learning**: PCA, K-means clustering, Latent Dirichlet Allocation
   - **Data Preprocessing**: Feature scaling, Encoding, Missing data handling, Outlier removal
 - #### Software
-  - **Business Intelligence**: WhereScape RED, Tableau
-  - **Visualization**: Matplotlib, Seaborn, MS Excel
+  - **Business Intelligence**: WhereScape RED
+  - **Visualization**: Matplotlib, Seaborn, MS Excel, Tableau
   - **Qualitative Research**: MAXQDA
+  - **Statistical Software**: STATA, SPSS

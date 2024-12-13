@@ -323,10 +323,6 @@ p,ul,ol,table,pre,dl {
     margin: 0 0 20px
 }
 
-p {
-  margin-bottom: 20px;
-}
-
 h1,h2,h3 {
     line-height: 1.1
 }
@@ -524,6 +520,11 @@ footer {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
+br {
+  display: block;
+  margin-bottom: 10px; /* Add spacing after each <br> */
+}
+
 @media print, screen and (max-width: 960px) {
     div.wrapper {
         width:auto;
@@ -632,7 +633,7 @@ hr {
 
 .table-of-contents {
   padding: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   border: none; 
 }
 

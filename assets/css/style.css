@@ -479,7 +479,7 @@ ul.downloads {
     background-color: #f0f0f0
 }
 
-strong, b {
+body strong{
     color: #333333 !important;
     font-weight: 700
 }

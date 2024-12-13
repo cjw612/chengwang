@@ -479,13 +479,9 @@ ul.downloads {
     background-color: #f0f0f0
 }
 
-strong {
+strong, b {
     color: #333333 !important;
     font-weight: 700
-}
-
-body strong {
-    color: #333333 !important;
 }
 
 .downloads li+li+li {

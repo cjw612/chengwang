@@ -484,6 +484,10 @@ strong {
     font-weight: 700
 }
 
+body strong {
+    color: #333333 !important;
+}
+
 .downloads li+li+li {
     border-right: none;
     width: 89px

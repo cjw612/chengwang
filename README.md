@@ -1,6 +1,6 @@
 ## About Me
 I am currently a Master's student at **Cornell University** majoring in Information Science. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology, in addition to finishing the business analytics program. \
-My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in applying interdisciplinary methods to various real-world contexts and scenarios. 
+My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in leveraging data-driven insights in business contexts. 
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025

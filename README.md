@@ -18,7 +18,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 
 
 ## Project Experience
-### Customer Segmentation and Business Analysis Report Based on Transaction Data [(link)] (https://github.com/cjw612/Customer_Segmentation_Business_Analysis_Report/blob/main/README.md)
+### Customer Segmentation and Business Analysis Report Based on Transaction Data [(link)](https://github.com/cjw612/Customer_Segmentation_Business_Analysis_Report/blob/main/README.md)
 
 - Generated a business analysis report from 541,909 entries of transaction data of an online retailer based in England
 - Defined four behavioral indexes (RFM Indexes, Activity Index) as features for K-Means Clustering and identified three distinct clusters

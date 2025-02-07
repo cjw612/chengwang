@@ -33,7 +33,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 ### News Category Classification with Natural Language Processing and Deep Learning [(link)](https://github.com/cjw612/News_Category_Classification)
 
 - Categorized the category of news entries based on the headline and description from a dataset with over 200,000 entries, deploying both classical and deep learning machine learning models.
-- Implemented methods such as Latent Dirichlet Allocation and Principle Component Analysis to perform dimension reduction and feature transformation.
+- Implemented Principle Component Analysis to perform dimension reduction and feature transformation.
 - Applied Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model. 
 
 ### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)

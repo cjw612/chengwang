@@ -51,7 +51,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
   - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
 - #### Software
-  - **Business Intelligence**: WhereScape RED, Tableau
+  - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, NLTK
   - **Qualitative Research**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS

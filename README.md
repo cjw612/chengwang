@@ -9,7 +9,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
+- Consultant Intern, beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
 - Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
 ## Research Experience
@@ -48,16 +48,17 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
-## Software and Skills
-
+## Software, Skills, and Languagues
 - #### Programming Languages
   - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
 - #### Statistical Methods
-  - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K Nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost, Sentiment analysis
+  - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K-nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
-  - **Data Preprocessing**: Feature Scaling, Encoding, Missing Data Handling, Outlier Removal
+  - **Data Preprocessing**: Feature Scaling, Data Encoding, Missing Data Handling, Outlier Removal
 - #### Software
   - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
-  - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, NLTK
+  - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
   - **Qualitative Research**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
+- #### Languagues
+  - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 

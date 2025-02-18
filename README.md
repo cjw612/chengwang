@@ -3,10 +3,10 @@ I am currently a Master's student at **Cornell University** majoring in Informat
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in leveraging data-driven insights in business contexts. 
 
 ## Education
-- **Master's in Information Science**, Cornell University class of '25
-- **Bachelor's in International Business**, National Taiwan University class of '23
-- **Bachelor's in Sociology (minor)**, National Taiwan University class of '23
-- **Business Analytics Program**, National Taiwan University class of '23
+- **Master's in Information Science**, Cornell University, 2024 - 2025
+- **Bachelor's in International Business**, National Taiwan University, 2018 - 2023
+- **Bachelor's in Sociology (minor)**, National Taiwan University, 2018 - 2023
+- **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
 - Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)

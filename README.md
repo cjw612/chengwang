@@ -48,7 +48,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a thorough conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
-## Software, Skills, and Languagues
+## Software, Skills, and Languages
 - #### Programming Languages
   - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
 - #### Statistical Methods

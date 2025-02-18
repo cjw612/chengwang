@@ -3,10 +3,10 @@ I am currently a Master's student at **Cornell University** majoring in Informat
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in leveraging data-driven insights in business contexts. 
 
 ## Education
-- **Master's in Information Science**, Cornell University, 2024 - 2025
-- **Bachelor's in International Business**, National Taiwan University, 2018 - 2023
-- **Bachelor's in Sociology (minor)**, National Taiwan University, 2018 - 2023
-- **Business Analytics Program**, National Taiwan University, 2018 - 2023
+- **Master's in Information Science**, Cornell University class of '25
+- **Bachelor's in International Business**, National Taiwan University class of '23
+- **Bachelor's in Sociology (minor)**, National Taiwan University class of '23
+- **Business Analytics Program**, National Taiwan University class of '23
   
 ## Work Experience
 - Part-time Assistant (Consultant Intern), beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
@@ -18,6 +18,12 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 
 
 ## Project Experience
+### Estimation and Visualization of Flood Damage in Taiwan [(link)](https://github.com/cjw612/Flood_Analysis)
+
+- Aggregated data from five different, compiling over seven million flood observation entries
+- Utilized spatial and temporal data to identify 84 unique flood events across Taiwan
+- Developed a dynamic Tableau dashboard to visualize estimated flood damage over five years
+
 ### Customer Segmentation and Business Analysis Report Based on Transaction Data [(link)](https://github.com/cjw612/Customer_Segmentation_Business_Analysis_Report/blob/main/README.md)
 
 - Generated a business analysis report from 541,909 entries of transaction data of an online retailer based in England

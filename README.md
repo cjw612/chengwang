@@ -9,7 +9,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- Consultant Intern, beBit Tech, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
+- Consultant Intern, beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
 - Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
 ## Research Experience

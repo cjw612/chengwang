@@ -9,8 +9,8 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- Consultant Intern, beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
-- Strategy Intern, Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
+- Consultant Intern at beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
+- Strategy Intern at Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
 ## Research Experience
 - Research Assistant under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present 

@@ -46,7 +46,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 
 - Analyzed how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
-- Crafted a conceptual model of the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
+- Crafted a conceptual model depicting the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
 ## Software, Skills, and Languages
 - #### Programming Languages

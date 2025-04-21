@@ -66,5 +66,6 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
   - **Qualitative Research**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
+  - **Data Platforms**: Databricks
 - #### Languagues
   - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 

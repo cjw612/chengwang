@@ -20,7 +20,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 ## Project Experience
 
 ### Ecolab Food Safety Audit Question Recommendation System
-- Constructed a recommendation system that provides actions for over 600 FDA audit questions for Ecolab, one of the leaders in offering water, hygiene, and infection prevention solutions
+- Constructed a recommendation system that provides actions for over 600 FDA audit questions for Ecolab, one of the industry leaders in offering water, hygiene, and infection prevention solutions
 - Leveraged data parsing and embedding techniques to preprocess data from over five different data sources
 - Utilized Databricks to build a scalable Zero-Shot recommendation system that provides recommended actions, reasoning, citations, and sources for each audit question
 

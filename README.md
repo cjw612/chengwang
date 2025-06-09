@@ -59,7 +59,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 ### The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
 
 - Co-authored a semester-long research report that conceptualized the assurance of Spiritual Powers in a contemporary Taiwanese context, led by Professor Ke-Hsien Huang from the Department of Sociology at National Taiwan University.
-- Conducted over 10 hours of on-site participant observation to obtain first-hand data. 
+- Conducted over 10 hours of on-site participant observation and field research to obtain first-hand data. 
 - Conceptualized the main argument of the report, drawing inspiration from the Economic paradigm of supply and demand. 
 
 ## Software, Skills, and Languages

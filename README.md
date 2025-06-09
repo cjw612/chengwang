@@ -56,7 +56,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a conceptual model depicting the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
 
-### The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
+### The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion [(link)](https://github.com/cjw612/Assurance_of_Spiritual_Powers)
 
 - Co-authored a semester-long research report that conceptualized the assurance of Spiritual Powers in a contemporary Taiwanese context, led by Professor Ke-Hsien Huang from the Department of Sociology at National Taiwan University.
 - Conducted over 10 hours of on-site participant observation and field research to obtain first-hand data. 

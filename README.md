@@ -57,11 +57,11 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 ## Software, Skills, and Languages
 - #### Programming Languages
   - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
-- #### Statistical Methods
+- #### Quantitative Methods
   - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K-nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
   - **Data Preprocessing**: Feature Scaling, Data Encoding, Missing Data Handling, Outlier Removal
-- #### Qualitative Research Methods
+- #### Qualitative Methods
   - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
 - #### Software
   - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)

@@ -17,7 +17,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Research Assistant under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 
 
-## Project Experience
+## Project Experience (Data/Quantitative)
 
 ### Ecolab Food Safety Audit Question Recommendation System
 - Constructed a recommendation system that provides actions for over 600 FDA audit questions for Ecolab, one of the industry leaders in offering water, hygiene, and infection prevention solutions
@@ -46,13 +46,21 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 
 - Categorized the category of news entries based on the headline and description from a dataset with over 200,000 entries, deploying both classical and deep learning machine learning models.
 - Implemented Principle Component Analysis to perform dimension reduction and feature transformation.
-- Applied Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model. 
+- Applied Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model.
+
+## Project Experience (Qualitative)
 
 ### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
-- Analyzed how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from National Taiwan University.
+- Analyzed how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from the Department of Information Management at National Taiwan University.
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a conceptual model depicting the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
+
+### The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
+
+- Co-authored a semester-long research report that conceptualized the assurance of Spiritual Powers in a contemporary Taiwanese context, led by Professor Ke-Hsien Huang from the Department of Sociology at National Taiwan University.
+- Conducted over 10 hours of on-site participant observation to obtain first-hand data. 
+- Conceptualized the main argument of the report, drawing inspiration from the Economic paradigm of supply and demand. 
 
 ## Software, Skills, and Languages
 - #### Programming Languages

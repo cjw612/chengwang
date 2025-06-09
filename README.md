@@ -66,7 +66,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - #### Software
   - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
-  - **Qualitative Research**: MAXQDA, Covidence
+  - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
   - **Data Platforms**: Databricks
 - #### Languagues

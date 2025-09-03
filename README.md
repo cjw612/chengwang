@@ -26,7 +26,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 
 ### Estimation and Visualization of Flood Damage in Taiwan [(link)](https://github.com/cjw612/Flood_Analysis)
 
-- Aggregated data from five different, compiling over seven million flood observation entries
+- Aggregated data from five different souces, compiling over seven million flood observation entries
 - Utilized spatial and temporal data to identify 84 unique flood events across Taiwan
 - Developed a dynamic Tableau dashboard to visualize estimated flood damage over five years
 

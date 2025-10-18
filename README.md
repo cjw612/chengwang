@@ -73,5 +73,8 @@ Currently, I am a Data and AI consultant at arcbricks, Tokyo, aiming to harness 
   - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
   - **Data Platforms**: Databricks
+- #### Credentials
+  - Databricks Certified Data Analyst Associate ([credential link]([url](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
+  - Databricks Certified Generative AI Engineer Associate ([credential link]([url](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))
 - #### Languagues
   - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 

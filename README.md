@@ -1,6 +1,8 @@
 ## About Me
 I am a fresh Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology. \
-My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
+
+My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts. \
+
 Currently, I am a Data and AI consultant at arcbricks, Tokyo, aiming to harness the potential of Databricks and data to foster digital transformation.
 
 ## Education

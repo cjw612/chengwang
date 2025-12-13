@@ -74,7 +74,10 @@ Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aim
   - **Statistical Software**: STATA, SPSS
   - **Data Platforms**: Databricks
 - #### Credentials
-  - Databricks Certified Data Analyst Associate ([credential link]([url](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911)))
-  - Databricks Certified Generative AI Engineer Associate ([credential link]([url](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89)))
+  - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
+  - Databricks Certified Generative AI Engineer Associate ([credential link](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))
+  - Databricks Certified Data Engineer Associate ([credential link](https://credentials.databricks.com/5101860e-3062-41ca-b260-ad740778ab18#acc.dn2hVJBDv))
+  - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
+  - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
   - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 

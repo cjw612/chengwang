@@ -1,5 +1,5 @@
 ## About Me
-I am a fresh Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
+I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
 
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
 

@@ -1,6 +1,9 @@
 ## About Me
-I am a fresh Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor degree in Sociology. \
+I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
+
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
+
+Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aiming to harness the potential of Databricks and data to foster digital transformation.
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025
@@ -9,15 +12,16 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- Consultant Intern (part-time-assistant) at beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
-- Strategy Intern at Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
+- **Data and AI Consultant** at arcbricks, Oct. 2025 to present (Tokyo, Japan)
+- **Consultant Intern (part-time assistant)** at beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
+- **Strategy Intern** at Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
 ## Research Experience
 - Research Assistant under the supervision of Professor Hsuan-Wei Lee at Lehigh University, Nov. 2024 - Present 
 - Research Assistant under the supervision of Professor Nanyi Bi at National Taiwan University, Oct. 2023 - Jul. 2024 
 - Research Assistant under the supervision of Professor Yen-Hsin Cheng at the Institute of Sociology of Academia Sinica, Oct. 2022 - Dec. 2022 
 
-## Project Experience (Data/Quantitative)
+## Project Experience
 
 ### Ecolab Food Safety Audit Question Recommendation System
 - Constructed a recommendation system that provides actions for over 600 FDA audit questions for Ecolab, one of the industry leaders in offering water, hygiene, and infection prevention solutions
@@ -48,19 +52,11 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - Implemented Principle Component Analysis to perform dimension reduction and feature transformation.
 - Applied Logistic Regression, Support Vector Machine, and Multilayer Perceptron with Bayesian Optimization hyperparameter tuning, achieving a final prediction accuracy of 74% on the best-performing model.
 
-## Project Experience (Qualitative)
-
 ### Impact of Xiaohongshu Usage on Young Female's Body Dissatisfaction  [(link)](/assets/xiaohongshu.pdf)
 
 - Analyzed how social media influences females’ body dissatisfaction with Xiaohongshu as an instance under the instruction of Professor Nanyi Bi from the Department of Information Management at National Taiwan University.
 - Conducted bottom-up thematic analysis and constructed 9 code groups with over 100 codes across 11 in-depth interviews with MAXQDA.
 - Crafted a conceptual model depicting the interplay between social media usage, body dissatisfaction, and body comparison while considering the characteristics of Xiaohongshu's content and usage patterns. 
-
-### The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion [(link)](https://github.com/cjw612/Assurance_of_Spiritual_Powers)
-
-- Co-authored a semester-long research report that conceptualized the assurance of Spiritual Powers in a contemporary Taiwanese context, led by Professor Ke-Hsien Huang from the Department of Sociology at National Taiwan University.
-- Conducted over 10 hours of on-site participant observation and field research to obtain first-hand data. 
-- Conceptualized the main argument of the report, drawing inspiration from the Economic paradigm of supply and demand. 
 
 ## Software, Skills, and Languages
 - #### Programming Languages
@@ -72,10 +68,16 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - #### Qualitative Methods
   - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
 - #### Software
-  - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
+  - **Business Intelligence**: Databricks, WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
   - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
   - **Data Platforms**: Databricks
+- #### Credentials
+  - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
+  - Databricks Certified Generative AI Engineer Associate ([credential link](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))
+  - Databricks Certified Data Engineer Associate ([credential link](https://credentials.databricks.com/5101860e-3062-41ca-b260-ad740778ab18#acc.dn2hVJBDv))
+  - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
+  - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
   - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 

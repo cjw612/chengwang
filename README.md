@@ -80,4 +80,4 @@ Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aim
   - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
   - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
-  - **Mandarin** (native), **English** (native or bilingual proficiency), **Japanese** (professional working proficiency, JLPT N1) 
+  - **Mandarin** (native), **English** (native/bilingual proficiency), **Japanese** (professional working proficiency, JLPT N1) 

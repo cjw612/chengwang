@@ -1,9 +1,9 @@
 ## About Me
+I am Cheng, currently based in Tokyo as a **Data and AI Consultant** at arcbricks, leading cross-border teams to harness the potential of Databricks and data to foster digital transformation.
+
 I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
 
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
-
-Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aiming to harness the potential of Databricks and data to foster digital transformation.
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025

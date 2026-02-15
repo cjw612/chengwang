@@ -68,11 +68,11 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - #### Qualitative Methods
   - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
 - #### Software
-  - **Business Intelligence**: Databricks, WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
+  - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store)
+  - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
   - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
-  - **Data Platforms**: Databricks
 - #### Credentials
   - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
   - Databricks Certified Generative AI Engineer Associate ([credential link](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))

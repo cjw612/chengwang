@@ -1,9 +1,9 @@
 ## About Me
+I am Cheng, currently based in Tokyo as a **Data and AI Consultant** at arcbricks, leading cross-border teams to harness the potential of Databricks and data to foster digital transformation.
+
 I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
 
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
-
-Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aiming to harness the potential of Databricks and data to foster digital transformation.
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025
@@ -68,11 +68,11 @@ Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aim
 - #### Qualitative Methods
   - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
 - #### Software
-  - **Business Intelligence**: Databricks, WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
+  - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store)
+  - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
   - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
-  - **Data Platforms**: Databricks
 - #### Credentials
   - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
   - Databricks Certified Generative AI Engineer Associate ([credential link](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))
@@ -80,4 +80,4 @@ Currently, I am based in Tokyo as a **Data and AI Consultant** at arcbricks, aim
   - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
   - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
-  - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 
+  - **Mandarin** (native), **English** (native/bilingual proficiency), **Japanese** (professional working proficiency, JLPT N1) 

@@ -60,18 +60,17 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 
 ## Software, Skills, and Languages
 - #### Programming Languages
-  - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
-- #### Quantitative Methods
+  - **Python** (excellent), **R** (excellent), **SQL** (excellent), **C++** (intermediate), **VBA** (intermediate)
+- #### Skills
   - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K-nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
-  - **Data Preprocessing**: Feature Scaling, Data Encoding, Missing Data Handling, Outlier Removal
-- #### Qualitative Methods
-  - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
-- #### Software
+  - **Generative AI Engineering**: Embedding Pipelines and Evaluation, RAG Architecture Design, Prompt Engineering, Evaluation and Experiment Management with MLflow
+  - **Data Engineering**: Data modeling, ETL/ELT, Workflow Orchestration, Medallion Architecture Design, SCD, Quarantining 
+- #### Tools
   - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store)
+  - **Project Management**: Agile/Waterfall Project Management with Azure DevOps, Jira
+  - **Version Control**: GitHub
   - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
-  - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
-  - **Qualitative Data Analysis**: MAXQDA, Covidence
   - **Statistical Software**: STATA, SPSS
 - #### Credentials
   - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
@@ -80,4 +79,4 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
   - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
-  - **Mandarin** (native), **English** (native/bilingual proficiency), **Japanese** (professional working proficiency, JLPT N1) 
+  - **Mandarin** (native), **English** (native/bilingual proficiency, C2), **Japanese** (professional working proficiency, JLPT N1) 

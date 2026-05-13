@@ -1,9 +1,9 @@
 ## About Me
-I am a fresh Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
+I am Cheng, currently based in Tokyo as a **Data and AI Consultant** at arcbricks, leading cross-border teams to harness the potential of Databricks and data to foster digital transformation.
+
+I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
 
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
-
-Currently, I am a **Data and AI Consultant** at arcbricks, Tokyo, aiming to harness the potential of Databricks and data to foster digital transformation.
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025
@@ -60,21 +60,23 @@ Currently, I am a **Data and AI Consultant** at arcbricks, Tokyo, aiming to harn
 
 ## Software, Skills, and Languages
 - #### Programming Languages
-  - **Python** (excellent), **R** (excellent), **SQL** (proficient), **C++** (intermediate), **VBA** (intermediate)
-- #### Quantitative Methods
+  - **Python** (excellent), **R** (excellent), **SQL** (excellent), **C++** (intermediate), **VBA** (intermediate)
+- #### Skills
   - **Supervised Learning Methods**: Regression, Discriminant Analysis, Support Vector Machine, K-nearest Neighbors, Multilayer Perceptron, Random forest, XGBoost
   - **Unsupervised Learning Methods**: Principal Component Analysis, K-means Clustering, Latent Dirichlet Allocation, Latent Class Analysis
-  - **Data Preprocessing**: Feature Scaling, Data Encoding, Missing Data Handling, Outlier Removal
-- #### Qualitative Methods
-  - **In-Depth Interview**, **Thematic Analysis**, **Field Research**
-- #### Software
-  - **Business Intelligence**: Databricks, WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
-  - **Python Packages**: scikit-learn, TensorFlow, pandas, NumPy, Matplotlib, Seaborn, GeoPandas
-  - **Qualitative Data Analysis**: MAXQDA, Covidence
+  - **Generative AI Engineering**: Embedding Pipelines and Evaluation, RAG Architecture Design, Prompt Engineering, Evaluation and Experiment Management with MLflow
+  - **Data Engineering**: Data modeling, ETL/ELT, Workflow Orchestration, Medallion Architecture Design, SCD, Quarantining 
+- #### Tools
+  - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store)
+  - **Project Management**: Agile/Waterfall Project Management with Azure DevOps, Jira
+  - **Version Control**: GitHub
+  - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
   - **Statistical Software**: STATA, SPSS
-  - **Data Platforms**: Databricks
 - #### Credentials
-  - Databricks Certified Data Analyst Associate ([credential link]([url](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911)))
-  - Databricks Certified Generative AI Engineer Associate ([credential link]([url](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89)))
+  - Databricks Certified Data Analyst Associate ([credential link](https://credentials.databricks.com/fa797379-c1fc-493c-994d-b92737bea911))
+  - Databricks Certified Generative AI Engineer Associate ([credential link](https://credentials.databricks.com/3817fc63-20eb-454f-b41d-d64526c5ae89))
+  - Databricks Certified Data Engineer Associate ([credential link](https://credentials.databricks.com/5101860e-3062-41ca-b260-ad740778ab18#acc.dn2hVJBDv))
+  - Databricks Certified Machine Learning Associate ([credential link](https://credentials.databricks.com/da468ec2-cc90-4f12-8593-431d64daeb22#acc.X1HL4TPF))
+  - Databricks Certified Machine Learning Professional ([credential link](https://credentials.databricks.com/c3595df1-8bb2-4adf-ac63-591d84c0d9d8#acc.RHkYU72o))
 - #### Languagues
-  - **Mandarin** (native), **English** (fluent), **Japanese** (proficient, JLPT N2) 
+  - **Mandarin** (native), **English** (native/bilingual proficiency, C2), **Japanese** (professional working proficiency, JLPT N1) 

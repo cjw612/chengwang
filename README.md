@@ -1,9 +1,11 @@
 ## About Me
-I am Cheng, currently based in Madrid as a **Value Engineer** at **Celonis**, working with cross-border teams to harness the potential of process and AI to foster digital transformation.
+I am Cheng, currently based in Madrid as a **Value Engineer** at **Celonis**, where I will be working with process mining and data-driven approaches to help organizations improve their processes and create business value.
 
-My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
+Previously, I worked as a Data Consultant, specializing in delivering Databricks-driven data platforms, generative AI and RAG solutions, and data transformation initiatives for Japanese customers. I spearheaded generative AI and RAG-related projects and gained experience in MLflow-based model development, model testing, MLOps workflows.
 
-Outside of 
+My experience spans data analysis, machine learning, data engineering, and consulting, with a strong focus on bridging technology and business. I work professionally in English, Japanese, and Mandarin Chinese, and have extensive experience navigating through international and cross-functional environments.
+
+I'm also a part-time music producer, full-time crochet lover, and lifelong Pokémon fan (my favorite Pokémon is Mew). 
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025

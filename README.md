@@ -1,9 +1,9 @@
 ## About Me
-I am Cheng, currently based in Tokyo as a **Data and AI Consultant** at arcbricks, leading cross-border teams to harness the potential of Databricks and data to foster digital transformation.
-
-I am a Master's graduate in Information Science from **Cornell University**. Previously, I received my Bachelor's degree in International Business from **National Taiwan University** with a minor in Sociology.
+I am Cheng, currently based in Madrid as a **Value Engineer** at **Celonis**, working with cross-border teams to harness the potential of process and AI to foster digital transformation.
 
 My experiences span **data analysis**, **management consulting**, **brand strategy**, and **academic research**, and I am interested in how to leverage data-driven insights in diverse contexts.
+
+Outside of 
 
 ## Education
 - **Master's in Information Science**, Cornell University, 2024 - 2025
@@ -12,7 +12,8 @@ My experiences span **data analysis**, **management consulting**, **brand strate
 - **Business Analytics Program**, National Taiwan University, 2018 - 2023
   
 ## Work Experience
-- **Data and AI Consultant** at arcbricks, Oct. 2025 to present (Tokyo, Japan)
+- **Value Engineer** at arcbricks, Oct. 2026 to present (Madrid, Spain)
+- **Data and AI Consultant** at arcbricks, Oct. 2025 to Aug. 2026 (Tokyo, Japan)
 - **Consultant Intern (part-time assistant)** at beBit TECH, Feb. 2022 - Jun. 2022 (Taipei, Taiwan)
 - **Strategy Intern** at Redpeak, Aug. 2021 - Dec. 2021 (Taipei, Taiwan)
   
@@ -67,7 +68,7 @@ My experiences span **data analysis**, **management consulting**, **brand strate
   - **Generative AI Engineering**: Embedding Pipelines and Evaluation, RAG Architecture Design, Prompt Engineering, Evaluation and Experiment Management with MLflow
   - **Data Engineering**: Data modeling, ETL/ELT, Workflow Orchestration, Medallion Architecture Design, SCD, Quarantining 
 - #### Tools
-  - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store)
+  - **Data Platforms**: Databricks (Data Modeling, Data Pipeline Engineering, Model Management with MLflow, Feature Store, Dashboards, Feature Store), Celonis
   - **Project Management**: Agile/Waterfall Project Management with Azure DevOps, Jira
   - **Version Control**: GitHub
   - **Business Intelligence**: WhereScape RED (ETL and Data Modeling), Tableau (Data Visualization)
